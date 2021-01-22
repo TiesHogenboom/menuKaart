@@ -20,7 +20,7 @@ is niet verplicht
 1. maak het menu sticky
 1. zorg ervoor dat de gekozen sectie niet onder het menu schuift
 
-Link naar de uitgewerkte versie: _op deze plaats_
+Link naar de uitgewerkte versie: http://30688.hosts1.ma-cloud.nl/siteMa-cloud/Ontwerp/menuKaart/index.html
 
 Ties Hogenboom
 SD1Aa
